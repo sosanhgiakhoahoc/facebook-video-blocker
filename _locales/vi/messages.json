@@ -1,0 +1,47 @@
+{
+  "appName": {
+    "message": "Khóa facebook video"
+  },
+  "appDescription": {
+    "message": "Cách đơn giản nhưng hiệu quả để tiết kiệm thời gian và tập trung vào thứ cần thiết"
+  },
+  "title": {
+    "message": "Ẩn"
+  },
+  "notification": {
+    "message": "đã bị thay thế bởi tiện ích"
+  },
+  "group": {
+    "message": "Nhóm"
+  },
+  "page": {
+    "message": "Trang"
+  },
+  "ads": {
+    "message": "Quảng cáo"
+  },
+  "store": {
+    "message": "Nút cửa hàng"
+  },
+  "shared_post": {
+    "message": "Bài chia sẻ"
+  },
+  "contains_keywords": {
+    "message": "Chứa từ khoá"
+  },
+  "post": {
+    "message": "Bài đăng"
+  },
+  "comment": {
+    "message": "Bình luận"
+  },
+  "pac": {
+    "message": "Bài đăng và Bình luận"
+  },
+  "pac_guide": {
+    "message": "(Bấm Enter để thêm)"
+  },
+  "upcoming": {
+    "message": "(Sắp tới)"
+  }
+}

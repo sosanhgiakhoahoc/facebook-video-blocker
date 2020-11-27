@@ -1,0 +1,47 @@
+{
+  "appName": {
+    "message": "Facebook Video Blocker"
+  },
+  "appDescription": {
+    "message": "Simple yet effective way to save time and focus on what's needed"
+  },
+  "notification": {
+    "message": "was replaced by extension"
+  },
+  "group": {
+    "message": "Group"
+  },
+  "page": {
+    "message": "Page"
+  },
+  "h1_title": {
+    "message": "Replace"
+  },
+  "ads": {
+    "message": "Ads"
+  },
+  "store": {
+    "message": "Store button"
+  },
+  "shared_post": {
+    "message": "Shared Post"
+  },
+  "contains_keywords": {
+    "message": "Contains keywords"
+  },
+  "post": {
+    "message": "Post"
+  },
+  "comment": {
+    "message": "Comment"
+  },
+  "pac": {
+    "message": "Post and Comment"
+  },
+  "pac_guide": {
+    "message": "(Press Enter to insert)"
+  },
+  "upcoming": {
+    "message": "(Upcoming)"
+  }
+}
